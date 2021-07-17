@@ -1,0 +1,8 @@
+-classpath 'D:\\5199_Demo\\build\\classes\\java\\main;D:\\5199_Demo\\build\\resources\\main'
+-d 'D:\\5199_Demo\\build\\docs\\javadoc'
+-doctitle '5199_Demo 1.0.0 API'
+-notimestamp 
+-quiet 
+-windowtitle '5199_Demo 1.0.0 API'
+'D:\\5199_Demo\\src\\main\\java\\Main.java'
+'D:\\5199_Demo\\src\\main\\java\\SecondMain.java'
